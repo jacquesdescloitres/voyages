@@ -1,0 +1,6 @@
+Outil création traces GPX : https://gpx.studio/
+Sources:
+    Stevenson: https://gr-go.fr/grande-randonnee/gr70-chemin-de-stevenson/
+
+xmllint --format gr-go-gr-70-chemin-de-stevenson.gpx > 2025-06-23_gr-go-gr-70-chemin-de-stevenson.gpx
+

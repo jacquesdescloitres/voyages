@@ -1,0 +1,9 @@
+# test
+#2025/2025-06-23_gr-go-gr-70-chemin-de-stevenson.gpx
+2025/2025-06-23_Le-Puy-En-Velay.gpx
+2025/2025-06-24_Le-Monastier.gpx
+2025/2025-06-25_Le-Bouchet-Saint-Nicolas.gpx
+2025/2025-06-26_Pradelles.gpx
+#2025/2025-06-27_Cheylard-L-Eveque.gpx
+#2025/2025-06-28_La-Bastide.gpx
+

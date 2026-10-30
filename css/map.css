@@ -1,0 +1,70 @@
+#map {
+    height: 750px;
+    width: 700px;
+}
+
+.commune-label {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  font-weight: bold;
+  pointer-events: none;
+}
+
+.map-title {
+    font-size: 200%;
+    font-weight: bold;
+    line-height: 120%;
+    position: relative;
+    text-align: center;
+    z-index: 999999;
+    pointer-events: none;       /* prevents interference with map active area */
+}
+
+.black-title {
+    color: #000;
+    text-shadow: 2px 2px 2px #fff;
+}
+
+.white-title {
+    color: #fff;
+    text-shadow: 2px 2px 2px #000;
+}
+
+.black-label {
+  color: #000d;
+  text-shadow: none;
+}
+
+.white-label {
+  color: #fffd;
+  text-shadow: none;
+}
+
+.leaflet-gpx-start-icon {
+	margin-left: -10px !important;      /* Make sure to use "!important" to overwrite leaflet style */
+	margin-top: -35px !important;
+	width: 40px !important;
+	height: 40px !important;
+}
+
+.leaflet-gpx-waypoint-icon {
+	margin-left: -6px !important;      /* Make sure to use "!important" to overwrite leaflet style */
+	margin-top: -20px !important;
+	width: 12px !important;
+	height: 20px !important;
+}
+
+.leaflet-tooltip {
+    text-align: center;
+}
+
+.easy-button-button {
+  background-color: #fff !important;
+  color: #000000 !important;
+  border: 1px solid #ccc !important;
+}
+
+.easy-button-container {
+  border: 1px solid #0003 !important;
+}

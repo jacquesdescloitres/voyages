@@ -1,0 +1,8 @@
+2026/10/29
+original copy from auvergne project
+removed cities overlay and associated label handling
+added refresh button
+implemented class-based support for type-dependent GPX icons (waypoints vs start)
+implemented track hover styling
+track list now loaded from list
+
